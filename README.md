@@ -3,16 +3,16 @@
 <h1 align="center">👋 Hey, I'm Dion (di0n1)</h1>
 
 <p align="center">
-  🎯 Cybersecurity Enthusiast | Offensive Security Learner | OS Explorer  
+   Cybersecurity Enthusiast | Offensive Security Learner | OS Explorer  
 </p>
 
 ---
 
-### 🧠 About Me
-- 💻 Passionate about cybersecurity — from system hardening to offensive testing  
-- 🧩 Experienced with multiple operating systems: **Parrot OS**, **Kali Linux**, **Tails**, **Windows**, and more  
-- 🔍 Focused on practical, real-world security — not just theory  
-- 🎓 Currently finishing my studies and preparing for my **first cybersecurity role**
+###  About Me
+-  Passionate about cybersecurity — from system hardening to offensive testing  
+-  Experienced with multiple operating systems: **Parrot OS**, **Kali Linux**, **Tails**, **Windows**, and more  
+-  Focused on practical, real-world security — not just theory  
+-  Currently finishing my studies and preparing for my **first cybersecurity role**
 
 ---
 
